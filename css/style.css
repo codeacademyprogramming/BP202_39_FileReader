@@ -1,0 +1,20 @@
+img{
+    max-width: 100%;
+    width: 300px;
+    height: 200px;
+}
+.box{
+    width: 500px;
+    height:400px;
+    margin: 0 auto;
+    background-color: orange;
+}
+.circle{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 50%;
+}
+.img-upload{
+    width: 150px;
+}
